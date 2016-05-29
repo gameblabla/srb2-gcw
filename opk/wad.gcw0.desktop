@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Custom Wad
+Comment=SRB2 (Custom Wad)
+Exec=srb2 -file %f
+Icon=icon
+Terminal=false
+Categories=games;

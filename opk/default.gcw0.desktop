@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=SRB2
+Comment=Sonic Robo Blast 2
+Exec=srb2
+Icon=icon
+Terminal=false
+Categories=games;
